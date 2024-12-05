@@ -1,0 +1,30 @@
+html, body {
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+h1 {
+    color: rgb(5, 19, 3);
+    position: relative;
+    text-align: center;
+    font-size: 5rem;
+    background-color: rgb(13, 210, 16);
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-top: 300px;
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+    border-radius: 50px;
+    background-color: rgb(234, 51, 51);
+}
+
+

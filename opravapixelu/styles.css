@@ -1,0 +1,18 @@
+html {
+animation-name: animation;
+animation-duration: 0.25s;
+animation-iteration-count: infinite;
+}
+
+@keyframes animation {
+    0% {background-color: rgb(17, 9, 9);}
+    12.5% {background-color: rgb(253, 54, 250);}
+    25% {background-color: rgb(6, 188, 6);}
+    37.5% {background-color: rgb(0, 255, 221);}
+    50% {background-color: rgb(28, 40, 94);}
+    62.5% {background-color: rgb(234, 255, 0);}
+    75% {background-color: rgb(71, 67, 67);}
+    87.5% {background-color: rgb(0, 71, 43);}
+    100% {background-color: rgb(247, 0, 0);}
+
+}

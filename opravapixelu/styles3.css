@@ -1,0 +1,52 @@
+html, body {
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: rgb(5, 19, 3);
+    position: relative;
+    text-align: center;
+    font-size: 5rem;
+    background-color: rgb(232, 51, 51);
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+}
+
+p {
+    background-color:  rgb(232, 51, 51);
+    font-size: 3rem;
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+button {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+    border-radius: 50px;
+    background-color: rgb(234, 51, 51);
+}
+
+#next {
+    margin-top: -20px;
+}
+
+#back {
+    margin-top: 20px;
+}
+
+
+
